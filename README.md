@@ -11,6 +11,7 @@ Cloning Youtube
  <img src="https://img.shields.io/badge/Pug-A86454?style=flat-square&logo=Pug&logoColor=white"/>
  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
 </p>
 
 ## Design Pattern
@@ -33,7 +34,7 @@ MVC
 - Social login(Github)
 - Custom video player
 - Session/Cookie authentication way
-
+- Store data(profile picture or video file) uploaded by user in AWS S3
 ## Deployment
 Heroku
 
